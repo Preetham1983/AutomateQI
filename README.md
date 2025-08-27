@@ -1,6 +1,4 @@
 # Heuristics | Automation & Project Solutions
-
-![Heuristics Banner](https://via.placeholder.com/1200x300.png?text=Heuristics%20-%20Intelligent%20Automation%20%26%20Project%20Delivery)
 <p align="center">
   <em>Your strategic partner for bespoke automation solutions and end-to-end project delivery. We turn complex challenges into streamlined, efficient, and scalable results.</em>
 </p>
